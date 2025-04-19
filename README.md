@@ -1,4 +1,4 @@
-# brewbox - macOS attack suite
+# brewbox - macOS attack suite for smartphones
 
 brewbox is a CLI tool designed to simulate offensive security actions on macOS systems from a smartphone or any terminal. It is a modular framework that replicates some of the core macOS attack vectors, such as ARDAgent RCE, AppleScript droppers, and macOS fingerprinting.
 
